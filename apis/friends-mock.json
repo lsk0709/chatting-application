@@ -1,0 +1,58 @@
+[
+    {
+        "id": 2,
+        "user_id": "02",
+        "name": "장만월 사장님",
+        "status_msg": "testtesteste",
+        "profile_img_url": "img-profile-2.png",
+        "background_img_url": ""
+    },
+    {
+        "id": 3,
+        "user_id": "03",
+        "name": "신정근 바텐더",
+        "status_msg": "",
+        "profile_img_url": "img-profile-3.png",
+        "background_img_url": ""
+    },
+    {
+        "id": 4,
+        "user_id": "04",
+        "name": "이미라 의사",
+        "status_msg": "",
+        "profile_img_url": "img-profile-4.png",
+        "background_img_url": ""
+    },
+    {
+        "id": 5,
+        "user_id": "05",
+        "name": "구찬성 지배인",
+        "status_msg": "",
+        "profile_img_url": "img-profile-5.png",
+        "background_img_url": ""
+    },
+    {
+        "id": 6,
+        "user_id": "06",
+        "name": "노준석 총지배인",
+        "status_msg": "",
+        "profile_img_url": "img-profile-6.png",
+        "background_img_url": ""
+    },
+    {
+        "id": 7,
+        "user_id": "07",
+        "name": "김유나 인턴",
+        "status_msg": "",
+        "profile_img_url": "img-profile-7.png",
+        "background_img_url": ""
+    },
+    {
+        "id": 8,
+        "user_id": "08",
+        "name": "구현모",
+        "status_msg": "",
+        "profile_img_url": "img-profile-8.png",
+        "background_img_url": ""
+    }
+]

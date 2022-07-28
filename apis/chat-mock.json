@@ -1,0 +1,101 @@
+[
+    {
+        "id": 3,
+        "room_id": 1,
+        "send_user_id": 2,
+        "type": "message",
+        "imgPath": "",
+        "uploaded": true,
+        "message": "출근했니?",
+        "not_read": 1,
+        "createdAt": "2022-07-25T08:23:50"
+    },
+    {
+        "id": 4,
+        "room_id": 1,
+        "send_user_id": 2,
+        "type": "message",
+        "imgPath": "",
+        "uploaded": true,
+        "message": "출근했냐구?",
+        "not_read": 1,
+        "createdAt": "2022-07-25T08:23:53"
+    },
+    {
+        "id": 5,
+        "room_id": 1,
+        "send_user_id": 2,
+        "type": "message",
+        "imgPath": "",
+        "uploaded": true,
+        "message": "어딘데 출근 안하니, 죽고싶니?",
+        "not_read": 1,
+        "createdAt": "2022-07-26T08:23:53"
+    },
+    {
+        "id": 6,
+        "room_id": 2,
+        "send_user_id": 3,
+        "type": "message",
+        "imgPath": "",
+        "uploaded": true,
+        "message": "오시는 길에 와인 몇병만 사다주세요.",
+        "not_read": 0,
+        "createdAt": "2022-07-24T03:24:23"
+    },
+    {
+        "id": 7,
+        "room_id": 3,
+        "send_user_id": 4,
+        "type": "message",
+        "imgPath": "",
+        "uploaded": true,
+        "message": "휴가 잘 보내고 계신가요? 다름이 아니라 지금 문제가 발생해서요.",
+        "not_read": 0,
+        "createdAt": "2022-07-25T03:23:35"
+    },
+    {
+        "id": 8,
+        "room_id": 4,
+        "send_user_id": 5,
+        "type": "message",
+        "imgPath": "",
+        "uploaded": true,
+        "message": "아 휴가셨군요. 약속은 다음으로 미루시죠!",
+        "not_read": 0,
+        "createdAt": "2022-07-20T19:17:10"
+    },
+    {
+        "id": 9,
+        "room_id": 5,
+        "send_user_id": 6,
+        "type": "message",
+        "imgPath": "",
+        "uploaded": true,
+        "message": "휴가에서 언제 돌아오시는지요. 돌아오시면 저에게 연락한번 부탁드립니다.",
+        "not_read": 1,
+        "createdAt": "2022-06-25T00:36:32"
+    },
+    {
+        "id": 10,
+        "room_id": 6,
+        "send_user_id": 7,
+        "type": "message",
+        "imgPath": "",
+        "uploaded": true,
+        "message": "304호 키를 잃어버렸어요 어떻게 해야하죠ㅠ",
+        "not_read": 0,
+        "createdAt": "2022-06-12T12:20:06"
+    },
+    {
+        "id": 11,
+        "room_id": 7,
+        "send_user_id": 8,
+        "type": "message",
+        "imgPath": "",
+        "uploaded": true,
+        "message": "술먹자",
+        "not_read": 0,
+        "createdAt": "2022-06-12T12:20:06"
+    }
+]

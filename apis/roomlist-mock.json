@@ -1,0 +1,79 @@
+[
+    {
+        "room_id": 1,
+        "room_name": "",
+        "participant": [
+            2
+        ],
+        "last_chat": "어딘데 출근 안하니, 죽고싶니?",
+        "not_read_chat": 3,
+        "last_read_chat_id": 261,
+        "updatedAt": "2022-07-26T08:23:53"
+    },
+    {
+        "room_id": 2,
+        "room_name": "",
+        "participant": [
+            3
+        ],
+        "last_chat": "오시는 길에 와인 몇병만 사다주세요.",
+        "not_read_chat": 0,
+        "last_read_chat_id": 262,
+        "updatedAt": "2022-07-24T03:24:23"
+    },
+    {
+        "room_id": 3,
+        "room_name": "",
+        "participant": [
+            4
+        ],
+        "last_chat": "휴가 잘 보내고 계신가요? 다름이 아니라 지금 문제가 발생해서요.",
+        "not_read_chat": 0,
+        "last_read_chat_id": 263,
+        "updatedAt": "2022-07-25T03:23:35"
+    },
+    {
+        "room_id": 4,
+        "room_name": "",
+        "participant": [
+            5
+        ],
+        "last_chat": "아 휴가셨군요. 약속은 다음으로 미루시죠!",
+        "not_read_chat": 0,
+        "last_read_chat_id": 264,
+        "updatedAt": "2022-07-20T19:17:10"
+    },
+    {
+        "room_id": 5,
+        "room_name": "",
+        "participant": [
+            6
+        ],
+        "last_chat": "휴가에서 언제 돌아오시는지요. 돌아오시면 저에게 연락한번 부탁드립니다.",
+        "not_read_chat": 1,
+        "last_read_chat_id": 265,
+        "updatedAt": "2022-06-25T00:36:32"
+    },
+    {
+        "room_id": 6,
+        "room_name": "",
+        "participant": [
+            7
+        ],
+        "last_chat": "304호 키를 잃어버렸어요 어떻게 해야하죠ㅠ",
+        "not_read_chat": 0,
+        "last_read_chat_id": 266,
+        "updatedAt": "2022-06-12T12:20:06"
+    },
+    {
+        "room_id": 7,
+        "room_name": "",
+        "participant": [
+            8
+        ],
+        "last_chat": "술먹자",
+        "not_read_chat": 0,
+        "last_read_chat_id": 267,
+        "updatedAt": "2022-06-12T12:20:06"
+    }
+]
